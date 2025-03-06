@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tests.dir/Tests/tests.cpp.o -o Tests  libSingleLinkedList.a lib/libgtest.a lib/libgtest_main.a lib/libgtest.a
